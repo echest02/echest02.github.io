@@ -1,12 +1,16 @@
 h1 {
-	font-size: 50px;
+	font-size: 75px;
 	font-family: "Prestige Elite Std";
 	color: purple;
 	text-align: right;
 }
 
 p{
-	font-size: 25px;
+	font-size: 30px;
 	font-family: "Prestige Elite Std";
 	text-align: right;
+}
+
+body{
+	background-color: #CCCCFF;
 }
