@@ -10,7 +10,8 @@ h2{
 	font-family: "Prestige Elite Std";
 	color: purple;
 	font-weight: bold;
-	font-style: underline;
+	padding: 2px;
+
 }
 
 h3{
