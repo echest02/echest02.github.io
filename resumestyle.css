@@ -28,9 +28,9 @@ p{
 	color: purple;
 }
 
-li{
+h5{
 	font-size: 10px;
 	font-family: "Prestige Elite Std";
 	color: purple;
-}
+	list-style-type: disc;
 }
