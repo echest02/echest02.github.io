@@ -3,6 +3,7 @@ h1 {
 	font-family: "Prestige Elite Std";
 	color: purple;
 	text-align: right;
+	font-weight:bold;
 }
 
 p{
@@ -12,5 +13,5 @@ p{
 }
 
 body{
-	background-color: #CCCCFF;
+	background-image:url('zigzag.PNG');
 }
