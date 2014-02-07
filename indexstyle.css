@@ -19,3 +19,7 @@ p{
 body{
 	background-image:url('zigzag.PNG');
 }
+
+img{
+	text-align: right
+}
