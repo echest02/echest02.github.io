@@ -5,13 +5,15 @@ h1 {
 	text-align: right;
 	font-weight:bold;
 	background-color: white;
-	background-position: right;
+	background-position: (500,1000);
 }
 
 p{
 	font-size: 30px;
 	font-family: "Prestige Elite Std";
 	text-align: right;
+	background-color: white;
+	color: purple;
 }
 
 body{
